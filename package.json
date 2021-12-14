@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run lint && mocha",
+    "test": "mocha",
     "lint": "node node_modules/eslint/bin/eslint.js ./src"
   },
   "repository": {
